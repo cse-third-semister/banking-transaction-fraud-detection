@@ -1,0 +1,4 @@
+customer_id,age,location,risk_profile
+C001,35,Odisha,LOW
+C002,56,West Bengal,HIGH
+C003,49,Jharkhand,MEDIUM
